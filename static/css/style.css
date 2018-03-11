@@ -32,13 +32,17 @@ a:hover {
     text-decoration: none;
 }
 .label-index {
-    font-size: 11px;
+    font-size: 10px;
+    margin: 5px 0.8px;
 }
 .label {
-    background-color: #999;
-    border: 1px solid #888;
+    background-color: #888;
+    border: 1px solid #555;
 }
 .label-post {
     padding: 4px 6px;
     margin: 2px;
+}
+.username, .footer-link, .link {
+    color: #444;
 }

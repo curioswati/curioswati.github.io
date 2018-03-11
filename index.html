@@ -13,7 +13,7 @@ layout: default
         <span class="reading-time post-meta pull-right" style="margin-left: 5px;"><b>~ </b>{{ post.date | date: "%b %d, %Y" }}</span>
         {% if post.tags.first == 'index' %}
           {% for tag in post.tags offset:1 %}
-            <span class="pull-right label label-default label-index" style="margin: 1px;">{{ tag }}</span>
+            <span class="pull-right label label-default label-index">{{ tag }}</span>
           {% endfor %}
         {% endif %}
       </li>

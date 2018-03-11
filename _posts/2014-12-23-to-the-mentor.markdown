@@ -7,7 +7,8 @@ permalink: /mentors/Ankit-kulkarni/to-the-mentor/
 ---
 Hello, I am Swati Jaiswal.
 A student at [IIPS-DAVV](http://www.iips.dauniv.ac.in/).
-Currently in 3rd year of integrated M.Tech (IT) and today I am going to present my first blog post on my own blog.</p>
+
+Currently in 3rd year of integrated M.Tech (IT) and today I am going to present my first blog post on my own blog.
 
 I thought to write something different, hence I decided to write this post dedicated to my mentor [Ankit Kulkarni](https://i.ankul.in/).
 This post has contribution from my team mate [Pulkit Vaishnav](https://twitter.com/vaishnavpulkit).

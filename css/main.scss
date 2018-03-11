@@ -6,10 +6,10 @@
 
 
 // Our variables
-$base-font-family: 'Raleway', Times New Roman, Helvetica, Arial, sans-serif;
-$base-font-size:   15px;
+$base-font-family: europa, 'Raleway', "Times New Roman", Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 1.7;
 
 $spacing-unit:     25px;
 
@@ -26,7 +26,7 @@ $title-color:      white;
 $post-link-color:  #04B4AE;
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    900px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
