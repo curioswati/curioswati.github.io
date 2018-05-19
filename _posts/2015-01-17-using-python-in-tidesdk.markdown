@@ -2,8 +2,8 @@
 title:  "How to use a python script in TideSDK: with an example"
 date:   2015-01-17 18:08:00
 tags: ['html', 'css', 'desktop-app', 'tutorial', 'tide-sdk', 'python']
-categories: TideSDK python
-permalink: /TideSDK/python/how-to-use-a-python-script-in-tidesdk.html
+categories: tutorials TideSDK
+permalink: /:categories/:title
 ---
 
 Today, we are going to see an example for how to use python as back-end in [TideSDK](http://tidesdk.multipart.net/docs/user-dev/generated).

@@ -481,6 +481,9 @@ I'll be writing about other features that I gradually added to my blog, in upcom
 Stay tuned!
 
 <br>
+Originally published on: [[https://www.zeolearn.com/magazine/github-pages-with-jekyll-scratch-up-your-own-blog]](https://www.zeolearn.com/magazine/github-pages-with-jekyll-scratch-up-your-own-blog)
+
+<br>
 ### References
 - [Get Started With GitHub Pages (Plus Bonus Jekyll)](https://24ways.org/2013/get-started-with-github-pages/)
 - [Content Modeling With Jekyll](https://www.smashingmagazine.com/2016/02/content-modeling-with-jekyll/)

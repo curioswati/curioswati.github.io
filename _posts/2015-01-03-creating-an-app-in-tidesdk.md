@@ -2,8 +2,8 @@
 title:  "Creating an app in TideSDK: Six steps to go"
 date:   2015-01-03 17:08:00
 tags: ['html', 'css', 'desktop-app', 'tutorial', 'tide-sdk']
-categories: TideSDK
-permalink: /TideSDK/creating-an-app-in-tidesdk.html
+categories: tutorials TideSDK
+permalink: /:categories/:title
 ---
 
 Here you will learn how to create a basic app in [TideSDK](http://tidesdk.multipart.net/docs/user-dev/generated/).

@@ -2,8 +2,8 @@
 title:  "Creating a simple GUI window using wxpython"
 date:   2015-01-24 06:30:00
 tags: ['GUI', 'tutorial', 'wxpython', 'python']
-categories: python wxpython
-permalink: /python/wxpython/Creating-a-simple-GUI-window-using-wxpython.html
+categories: tutorials wxpython
+permalink: /:categories/:title
 ---
 
 Let's get started with wxpython. We will see how to create a simple window named **Hello World**!.
