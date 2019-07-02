@@ -22,6 +22,7 @@ and get familiar enough to be able to set up a repository and maintain it.
 * You understand templating in web development and of course, understand OOPS.
 
 <p class='note'>Note: I use ubuntu 16.04.</p>
+<p class='note'>Update(02-07-2019): I now use ubuntu 18.04 so have updated the installation instructions recently according to 18.04.</p>
 
 There are two things to keep in mind,
 
@@ -108,25 +109,32 @@ The gist mentioned above does the following:
 * Checks for the operating system version (the commands will work with Debian based Linux system only).
 * If the install is instructed, runs the following commands:
 
-    Install build dependencies
+    **Install build dependencies**
 
-        sudo apt-get install gcc g++ make software-properties-common python-software-properties
+    (for ubuntu <= 14.04)    
 
-    Add PPA for ruby.
+        sudo apt-get install gcc g++ make build-essential software-properties-common python-software-properties zlib1g-dev
 
-        sudo add-apt-repository ppa:brightbox/ruby-ng
+    (for ubuntu > 14.04)
 
-    update cache.
+        sudo apt-get install gcc g++ make build-essential software-properties-common zlib1g-dev
 
-        sudo apt-get update
+    **Install ruby 2.4.0 or above**
 
-    Install ruby 2.2
+    (you may already have Ruby installed on your computer. You can check inside the terminal by typing: `ruby -v`.)
 
-        sudo apt-get install ruby2.2 ruby2.2-dev
+        sudo apt-get install ruby-full
 
-    Install latest Jekyll(3.7.3 at the time of publishing.)
+    **Install Ruby Gems**
 
-        sudo gem install jekyll
+        echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+        echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+        echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+        source ~/.bashrc
+
+    **Install latest Jekyll(3.7.3 at the time of publishing.)**
+
+        gem install jekyll bundler
 
 * If uninstall is instructed, runs the following command.
 
