@@ -1,6 +1,6 @@
 name: "Swati Jaiswal"
 date: "Feb 24, 2018, 9:30 am"
 hash: 4b21fec52016508a032b81c7ac15b3c6
-message: "<p>Hi Manish,
-If I understood correctly, you might want to look at the gist here: <a href='https://gist.github.com/curioswati/c9c2e91f472c702a7058c99f6dfbf2b4'>https://gist.github.com/curioswati/c9c2e91f472c702a7058c99f6dfbf2b4</a></p>
-<p>It\'s purpose is to install jekyll with all required dependencies and that too through a python script. You ca simply replace the apt command with yum commands to install Java. Hope this is what you were looking for.</p>"
+message: "Hi Manish,
+If I understood correctly, you might want to look at the gist here: [https://gist.github.com/curioswati/c9c2e91f472c702a7058c99f6dfbf2b4](https://gist.github.com/curioswati/c9c2e91f472c702a7058c99f6dfbf2b4).
+Its purpose is to install jekyll with all required dependencies and that too through a python script. You can simply replace the apt command with yum commands to install Java. Hope this is what you were looking for."
