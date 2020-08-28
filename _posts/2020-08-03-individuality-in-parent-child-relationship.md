@@ -1,5 +1,5 @@
 ---
-title:  "My opinions on parent-children relationships: an introspection after Shakuntala Devi."
+title:  "Individuality in parent-children relationships: an introspection after Shakuntala Devi."
 date:   2020-08-03 00:40:00
 tags: ['parenting', 'social structures', '']
 categories:  opinion
