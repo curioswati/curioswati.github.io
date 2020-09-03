@@ -6,7 +6,7 @@ categories:  opinion
 permalink: /:categories/:title
 ---
 
-**Scene 1**: There's a marriage procession getting started which the family is prohibiting. The reporter friend of the groom insists and instill some courage in the family to go on with the procession but they don't want to face the wrath of the _upper cast_ by doing the procession which apparently is not allowed for them.
+**Scene 1**: There's a wedding procession getting started which the family is prohibiting. The reporter friend of the groom insists and instill some courage in the family to go on with the procession but they don't want to face the wrath of the _upper cast_ by doing the procession which apparently is not allowed for them.
 
 **Scene 2**: the procession is going on and as a result some people beat up the groom and all the people in the procession. Groom's cousin gots beaten up very bad. His sister and the reporter friend lodges an FIR for attempt of murder. As a result, the goons' families (_upper castes_ so is told) kidnaps the doctors in the hospital (where the beaten up man was taken for treatment) and won't allow the treatment until the FIR was taken back.
 
