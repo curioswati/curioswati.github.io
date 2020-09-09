@@ -1,5 +1,7 @@
 <form id="comments-form" action="https://discuss.swatij.me/comments" method="post">
     <input type="hidden" name="post-slug" value="{{ post_slug }}">
+    <input type="hidden" name="post-title" value="{{ page.title }}">
+    <input type="hidden" name="post-url" value="{{ page.permalink }}">
     <input type="text" name="company" class="honey">
   <div class="form-group">
     <!--label for="name">Name</label-->
