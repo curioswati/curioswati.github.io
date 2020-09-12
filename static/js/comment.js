@@ -70,6 +70,7 @@ function getComment(data) {
 	return template;
 }
 function addComment(comment) {
+    // Ref: https://stackoverflow.com/a/23102317/3860168
     $("#submission-alert").fadeTo(5000, 500).slideUp(500, function() {
       $("#submission-alert").slideUp(500);
     });
