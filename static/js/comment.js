@@ -1,3 +1,6 @@
+// Hide the alert message on top of the form initially.
+$("#submission-alert").hide();
+
 function addComment(hash, date, name, url, message) {
     var template = document.getElementById('template--new-comment').innerHTML;
 
@@ -67,5 +70,7 @@ function getComment(data) {
 	return template;
 }
 function addComment(comment) {
-	$('.js-comments').removeAttr('aria-hidden').append(comment);
+    $("#submission-alert").fadeTo(5000, 500).slideUp(500, function() {
+      $("#submission-alert").slideUp(500);
+    });
 }
