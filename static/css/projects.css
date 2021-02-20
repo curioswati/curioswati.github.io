@@ -109,6 +109,23 @@
 .card-py-google .name {
     color: #4285F4;
 }
+
+/* bhavcopy-searchified */
+
+.card-bhavcopy {
+    background: #90ee90;
+}
+.card-bhavcopy:hover {
+    border: 1px solid #90ee90;
+}
+.card-bhavcopy:hover,
+.card-bhavcopy:hover .name {
+    background: white;
+    color: #90ee90;
+}
+.card-bhavcopy .name {
+    color: black;
+}
 .open-source > div{
     background-color: #04B4AE;
     margin: 10px 5px;
