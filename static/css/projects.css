@@ -19,22 +19,28 @@
 /* iips-app */
 
 .card-iips-app {
-    background-color: #125c9c;
+    background: #125c9c;
 }
 .card-iips-app:hover {
-    background-color: rgba(18, 92, 156, 0.6);
+    border: 1px solid #125c9c;
+}
+.card-iips-app:hover,
+.card-iips-app:hover .name {
+    background: white;
+    color: #125c9c;
 }
 .card-iips-app .name {
-    color: #FFD53E;
+    color: #ffd53e;
 }
 
 /* gitoscope */
 
 .card-gitoscope {
-    background-color: #f7e540;
+    background: #f7e540;
 }
 .card-gitoscope:hover {
-    background-color: rgba(247, 229, 64, 0.6);
+    background: white;
+    border: 1px solid #f7e540;
 }
 .card-gitoscope .name {
     color: #000;
@@ -43,19 +49,29 @@
 /* sjdownloader */
 
 .card-sjdl {
-    background-color: #00a2e8;
+    background: #00a2e8;
 }
 .card-sjdl:hover {
-    background-color: rgba(0, 162, 232, 0.6);
+    border: 1px solid #00a2e8;
+}
+.card-sjdl:hover,
+.card-sjdl:hover .name {
+    background: white;
+    color: #00a2e8;
 }
 
 /* drop to slack */
 
 .card-slack {
-    background-color: #d91852;
+    background: #d91852;
 }
 .card-slack:hover {
-    background-color: rgba(217, 24, 82, 0.6);
+    border: 1px solid #d91852;
+}
+.card-slack:hover,
+.card-slack:hover .name {
+    background: white;
+    color: #d91852;
 }
 .card-slack .name {
     color: black;
@@ -64,10 +80,15 @@
 /* cryptanalyzer */
 
 .card-crypt {
-    background-color: rgba(85, 85, 85, 0.8);
+    background: #777777;
 }
 .card-crypt:hover {
-    background-color: rgba(85, 85, 85, 0.6);
+    border: 1px solid #777777;
+}
+.card-crypt:hover,
+.card-crypt:hover .name {
+    background: white;
+    color: #777777;
 }
 .card-crypt .name {
     color: #125c9c;
@@ -75,10 +96,15 @@
 
 /* py-google-auth */
 .card-py-google {
-    background-color: #FBBC05;
+    background: #FBBC05;
 }
 .card-py-google:hover {
-    background-color: #FFD53E;
+    border: 1px solid #FBBC05;
+}
+.card-py-google:hover,
+.card-py-google:hover .name {
+    background: white;
+    color: #FBBC05;
 }
 .card-py-google .name {
     color: #4285F4;
