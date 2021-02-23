@@ -30,3 +30,4 @@ encoding: UTF-8
 
 collections:
   - projects
+  - contributions

@@ -1,134 +1,55 @@
 /* global styles */
 
-.project-card {
-    height: 180px;
-    width: 180px;
-    border-radius: 100%;
-    margin:20px;
+.project-heading {
+    color: #794D43;
 }
-.project-card > span {
-    position:relative;
-    top: 70px;
-    left:20px;
-    font-weight:bold;
+.project-list {
+    margin-left: 15px;
+}
+
+.project-card {
+    padding-top:10px;
 }
 .project-card .name {
-    color: white;
+    font-weight: bold;
 }
-
-/* iips-app */
-
-.card-iips-app {
-    background: #125c9c;
-}
-.card-iips-app:hover {
-    border: 1px solid #125c9c;
-}
-.card-iips-app:hover,
-.card-iips-app:hover .name {
-    background: white;
-    color: #125c9c;
-}
-.card-iips-app .name {
-    color: #ffd53e;
-}
-
-/* gitoscope */
-
-.card-gitoscope {
-    background: #f7e540;
-}
-.card-gitoscope:hover {
-    background: white;
-    border: 1px solid #f7e540;
-}
-.card-gitoscope .name {
-    color: #000;
+.colorize,
+.colorize:visited {
+    color: #775587;
 }
 
 /* sjdownloader */
 
-.card-sjdl {
-    background: #00a2e8;
-}
-.card-sjdl:hover {
-    border: 1px solid #00a2e8;
-}
-.card-sjdl:hover,
-.card-sjdl:hover .name {
-    background: white;
+.card-sjdl .colorize {
     color: #00a2e8;
 }
 
-/* drop to slack */
+/* py-google-auth */
 
-.card-slack {
-    background: #d91852;
+.card-py-google .colorize {
+    color: #FBBC05;
 }
-.card-slack:hover {
-    border: 1px solid #d91852;
-}
-.card-slack:hover,
-.card-slack:hover .name {
-    background: white;
-    color: #d91852;
-}
-.card-slack .name {
-    color: black;
+
+/* iips-app */
+
+.card-iips-app .colorize {
+    color: #125c9c;
 }
 
 /* cryptanalyzer */
 
-.card-crypt {
-    background: #777777;
-}
-.card-crypt:hover {
-    border: 1px solid #777777;
-}
-.card-crypt:hover,
-.card-crypt:hover .name {
-    background: white;
+.card-crypt .colorize {
     color: #777777;
 }
-.card-crypt .name {
-    color: #125c9c;
-}
 
-/* py-google-auth */
-.card-py-google {
-    background: #FBBC05;
-}
-.card-py-google:hover {
-    border: 1px solid #FBBC05;
-}
-.card-py-google:hover,
-.card-py-google:hover .name {
-    background: white;
-    color: #FBBC05;
-}
-.card-py-google .name {
-    color: #4285F4;
+/* drop to slack */
+
+.card-slack .colorize {
+    color: #d91852;
 }
 
 /* bhavcopy-searchified */
 
-.card-bhavcopy {
-    background: #90ee90;
-}
-.card-bhavcopy:hover {
-    border: 1px solid #90ee90;
-}
-.card-bhavcopy:hover,
-.card-bhavcopy:hover .name {
-    background: white;
+.card-bhavcopy .colorize {
     color: #90ee90;
-}
-.card-bhavcopy .name {
-    color: black;
-}
-.open-source > div{
-    background-color: #04B4AE;
-    margin: 10px 5px;
-    padding: 10px;
-    width: 200px;
 }
