@@ -25,16 +25,23 @@
     margin: 15px 5px;
     padding: 10px;
     border-radius: 100%;
-    background-color: #04B4AE;
-    border: 0.4px solid #04B4AE;
+    background-color: #775587;
+    border: 0.4px solid #775587;
 }
 .social-icon:hover {
     text-decoration: none;
     background-color: white;
     border: 0.4px solid grey;
+    color: black;
 }
-.fa-facebook {
-    padding: 10px 13px;
+.social-icon:visited:hover {
+    color: black;
+}
+.social-icon:visited {
+    color: white;
+}
+.fa-stack-overflow {
+    padding: 10px 12px;
 }
 .social-irc {
     font-weight:normal;
