@@ -46,3 +46,13 @@ a:hover {
 .username, .footer-link, .link {
     color: #444;
 }
+.post-list > li > a:visited{
+    color: #570042;
+}
+.site-footer,
+.site-footer :visited {
+    color: #794D43;
+}
+.site-footer * {
+    margin-bottom: 0;
+}
