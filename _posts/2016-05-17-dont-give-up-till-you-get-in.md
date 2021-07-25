@@ -2,8 +2,8 @@
 title:  "Don't give up... Till you get in"
 date:   2016-05-19 04:00:00
 tags: ['index', 'experience', 'learning', 'outreachy', 'open-source']
-categories: outreachy
-permalink: /outreachy/dont-give-up-till-you-get-in/
+categories: memoir
+permalink: /memoir/dont-give-up-till-you-get-in/
 ---
 Hello!
 

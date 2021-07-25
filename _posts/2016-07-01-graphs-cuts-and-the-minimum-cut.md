@@ -2,7 +2,7 @@
 title:  "Graphs, Cuts and the Minimum Cut"
 date:   2016-07-01 09:00:00
 tags: ['index', 'graph-cuts', 'data structures', 'analysis', 'algorithms', 'graphs']
-categories:  data-structures
+categories:  programming data-structures
 permalink: :categories/:title
 ---
 

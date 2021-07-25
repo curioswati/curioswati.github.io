@@ -1,9 +1,9 @@
 ---
 title:  "To the mentor (Ankit Kulkarni)..."
 date:   2014-12-23 12:30:00
-categories: mentors Ankit-kulkarni
+categories: memoir mentors
 tags: ['index', 'thanks-note', 'experience', 'learning']
-permalink: /mentors/Ankit-kulkarni/to-the-mentor/
+permalink: /:categories/:title
 ---
 Hello, I am Swati Jaiswal.
 A student at [IIPS-DAVV](http://www.iips.dauniv.ac.in/).

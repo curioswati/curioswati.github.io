@@ -2,7 +2,7 @@
 title:  "Creating a simple GUI window using wxpython"
 date:   2015-01-24 06:30:00
 tags: ['GUI', 'tutorial', 'wxpython', 'python']
-categories: tutorials wxpython
+categories: tutorials frameworks
 permalink: /:categories/:title
 ---
 

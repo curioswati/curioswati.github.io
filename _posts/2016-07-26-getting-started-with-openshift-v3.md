@@ -2,7 +2,7 @@
 title:  "Getting started with openshift v3"
 date:   2016-07-28 16:25:00
 tags: ['index', 'docker', 'ansible', 'deployment', 'tutorial', 'openshift']
-categories:  outreachy
+categories:  tutorials infra
 permalink: /:categories/:title
 ---
 

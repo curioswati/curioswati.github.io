@@ -2,8 +2,8 @@
 title:  "Floating point representation of real numbers."
 date:   2015-01-01 10:08:00
 tags: ['arithmetic', 'floating-point', 'numerical-analysis']
-categories: numerical-analysis
-permalink: /numerical-analysis/floating-point-representation-of-real-numbers/
+categories: programming numerical-analysis
+permalink: /programming/numerical-analysis/floating-point-representation-of-real-numbers/
 ---
 <style type="text/css">
 	h3

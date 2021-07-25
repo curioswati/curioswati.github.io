@@ -2,7 +2,7 @@
 title:  "How to digitally sign and encrypt a mail using ThunderBird"
 date:   2016-06-02 11:00:00
 tags: ['thunderbird', 'gpg', 'signing', 'encryption', 'mail']
-categories: hacks
+categories: howto
 permalink: :categories/:title
 ---
 Hello!

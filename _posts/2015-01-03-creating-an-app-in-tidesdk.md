@@ -2,7 +2,7 @@
 title:  "Creating an app in TideSDK: Six steps to go"
 date:   2015-01-03 17:08:00
 tags: ['html', 'css', 'desktop-app', 'tutorial', 'tide-sdk']
-categories: tutorials TideSDK
+categories: tutorials frameworks
 permalink: /:categories/:title
 ---
 

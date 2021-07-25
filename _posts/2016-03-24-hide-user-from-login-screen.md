@@ -2,8 +2,8 @@
 title:  "How to hide a user from login screen in ubuntu 14.04"
 date:   2016-03-24 20:30:00
 tags: ['login-preference', 'hacks', 'ubuntu']
-categories: hacks ubuntu 
-permalink: /hacks/ubuntu/hide-user-from-login-screen-in-ubuntu-14-04.html
+categories: howto
+permalink: /howto/hide-user-from-login-screen-in-ubuntu-14-04.html
 ---
 <p>
 Today, while trying to apply some personalization to my pc, I learned a new hack. So sharing it here, hope it might help some of you.
